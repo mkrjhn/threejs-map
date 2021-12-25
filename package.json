@@ -11,6 +11,8 @@
     "pre-commit": "lint-staged"
   },
   "dependencies": {
+    "@vueuse/components": "^7.4.1",
+    "@vueuse/core": "^7.4.1",
     "vue": "^3.2.25"
   },
   "devDependencies": {
