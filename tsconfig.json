@@ -21,6 +21,10 @@
     },
     "types": [
       "vite/client",
+    ],
+    "typeRoots": [
+      "src/types",
+      "node_modules/@types"
     ]
   },
   "include": [
